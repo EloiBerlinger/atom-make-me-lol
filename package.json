@@ -1,13 +1,13 @@
 {
   "name": "atom-make-me-lol",
   "main": "./lib/atom-make-me-lol",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Atom command to display random funny gif",
   "keywords": [
-	  "atom",
-	  "gif",
-	  "funny",
-	  "command"
+    "atom",
+    "gif",
+    "funny",
+    "command"
   ],
   "repository": "https://github.com/josex2r/atom-make-me-lol",
   "license": "MIT",
