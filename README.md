@@ -6,6 +6,8 @@
 
 Atom command to display random funny gif.
 
+A crazy idea born out of [make-me-lol](https://github.com/himynameisdave/make-me-lol) npm package.
+
 ![atom-make-me-lol](https://raw.githubusercontent.com/josex2r/atom-make-me-lol/master/atom-make-me-lol.gif)
 
 #### How to / Installation
