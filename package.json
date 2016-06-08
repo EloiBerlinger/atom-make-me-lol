@@ -9,6 +9,9 @@
     "funny",
     "command"
   ],
+  "activationCommands": {
+    "atom-workspace": "atom-make-me-lol:toggle"
+  },
   "repository": "https://github.com/josex2r/atom-make-me-lol",
   "license": "MIT",
   "engines": {
