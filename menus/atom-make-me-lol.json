@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "atom-make-me-lol",
+          "label": "Make me LOL",
           "submenu": [
             {
               "label": "Toggle",

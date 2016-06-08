@@ -1,5 +1,21 @@
-# atom-make-me-lol package
+# atom-make-me-lol
 
-A short description of your package.
+[![Plugin installs!](https://img.shields.io/apm/dm/atom-make-me-lol.svg?style=flat-square)](https://atom.io/packages/atom-make-me-lol)
+[![Package version!](https://img.shields.io/apm/v/atom-make-me-lol.svg?style=flat-square)](https://atom.io/packages/atom-make-me-lol)
+[![Dependencies!](https://img.shields.io/david/josex2r/atom-make-me-lol.svg?style=flat-square)](https://david-dm.org/josex2r/atom-make-me-lol)
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Atom command to display random funny gif.
+
+![atom-make-me-lol](https://raw.githubusercontent.com/josex2r/atom-make-me-lol/master/atom-make-me-lol.gif)
+
+#### How to / Installation
+
+Install package through Atom or use CLI:
+
+```
+$ apm install atom-make-me-lol
+```
+
+#### License
+
+atom-make-me-lol is released under the [MIT License](http://opensource.org/licenses/MIT).
