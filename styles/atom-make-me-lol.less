@@ -3,6 +3,17 @@
 // See https://github.com/atom/atom-dark-ui/blob/master/styles/ui-variables.less
 // for a full listing of what's available.
 @import "ui-variables";
-
+@import "./spinner.less";
 .atom-make-me-lol {
+    text-align: center;
+    webview {
+		display:inline-flex;
+        width: 100%;
+        height: 500px;
+        &.hide {
+            flex: 0 1;
+            width: 0;
+            height: 0;
+        }
+    }
 }

@@ -1,0 +1,66 @@
+#floatingCirclesG {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    transform: scale(0.6);
+    margin: 0 auto;
+}
+.f_circleG {
+    position: absolute;
+    background-color: @app-background-color;
+    height: 27px;
+    width: 27px;
+    border-radius: 14px;
+    animation-name: f_fadeG;
+    animation-duration: 2.64s;
+    animation-iteration-count: infinite;
+    animation-direction: linear;
+}
+#frotateG_01 {
+    left: 0;
+    top: 61px;
+    animation-delay: 0.99s;
+}
+#frotateG_02 {
+    left: 18px;
+    top: 18px;
+    animation-delay: 1.32s;
+}
+#frotateG_03 {
+    left: 61px;
+    top: 0;
+    animation-delay: 1.65s;
+}
+#frotateG_04 {
+    right: 18px;
+    top: 18px;
+    animation-delay: 1.98s;
+}
+#frotateG_05 {
+    right: 0;
+    top: 61px;
+    animation-delay: 2.31s;
+}
+#frotateG_06 {
+    right: 18px;
+    bottom: 18px;
+    animation-delay: 2.64s;
+}
+#frotateG_07 {
+    left: 61px;
+    bottom: 0;
+    animation-delay: 2.97s;
+}
+#frotateG_08 {
+    left: 18px;
+    bottom: 18px;
+    animation-delay: 3.3s;
+}
+@keyframes f_fadeG {
+    0% {
+        background-color: @background-color-highlight;
+    }
+    100% {
+        background-color: @app-background-color;
+    }
+}
